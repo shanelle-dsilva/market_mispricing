@@ -1,5 +1,6 @@
-#### 2. For `prediction-market-mispricing`
+#### 2. For `market_mispricing`
 ```markdown
+
 # Prediction Market Mispricing Engine
 
 A backend Python data pipeline designed to ingest prediction market order books, calculate implied probabilities, and flag cross-market or mutually exclusive arbitrage opportunities.
